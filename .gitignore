@@ -1,0 +1,59 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+Assets/AddressableAssetsData/*/*.bin*
+Assets/StreamingAssets/aa.meta
+Assets/StreamingAssets/aa/*
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+*.app
+crashlytics-build.properties
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.booproj
+*.svd
+*.pidb
+*.mdb
+*.opendb
+*.VC.db
+ExportedObj/
+.consulo/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Instructor tooling, not part of the student template
+Assets/_Project/Editor/
+Assets/_Project/Editor.meta
+tools/
+
+# Unity Android build cache and the meta of an ignored temp folder
+.utmp/
+Assets/XR/Temp.meta
+
+# Edit-mode tests stay local
+Assets/_Project/Tests/
+Assets/_Project/Tests.meta

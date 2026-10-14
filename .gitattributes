@@ -1,0 +1,28 @@
+# Unity YAML files: merge as text
+*.unity merge=unityyamlmerge eol=lf
+*.prefab merge=unityyamlmerge eol=lf
+*.asset merge=unityyamlmerge eol=lf
+*.mat merge=unityyamlmerge eol=lf
+*.meta merge=unityyamlmerge eol=lf
+*.cs text eol=lf
+
+# Binary assets: never normalise line endings
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.tga binary
+*.psd binary
+*.exr binary
+*.hdr binary
+*.wav binary
+*.mp3 binary
+*.ogg binary
+*.mp4 binary
+*.fbx binary
+*.FBX binary
+*.obj binary
+*.glb binary
+*.gltf binary
+*.blend binary
+*.unitypackage binary
+*.apk binary
